@@ -49,11 +49,6 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 
 While I developed appreciation for a well-refactored clean code, I have also learned that being a developer is not all about being able to code. Working extensively on multiple group projects, I have experienced highs and lows of teamwork. I strive to create an adaptable environment with active discussions, open communication and respect to each other.
 
-- SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, AngularJS
-- Rspec, Capybara, Jasmine, Karma, Protractor
-
 #### University College London (March 2013 - June 2016)
 
 - M.Phil. ( expected ) in Cancer Cell Biology
