@@ -46,7 +46,7 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 
 ### <a name="education">Education</a>
 
-#### ** [Makers Academy](http://www.makersacademy.com/) ( February - May 2016 ) **
+#### Makers Academy ( February - May 2016 )
 ##### *Intensive full-stack web development course*
 
 + TDD and BDD
@@ -56,32 +56,35 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 + Ruby, Rails, JavaScript, Node.js, AngularJS, HTML/CSS, PostgreSQL, DataMapper, Active Record
 + RSpec, Capybara, Jasmine, Karma, Protractor, JUnit
 
-#### ** University College London ( March 2013 - June 2016 ) **
+#### University College London ( March 2013 - June 2016 )
 ##### *M.Phil. ( expected ) in Cancer Cell Biology*
 + Cancer Research UK Graduate Research Studentship recipient
 + Research Project: Mechanisms of Metastasis in Breast Cancer
 
-#### ** University of Warwick ( October 2009 - July 2012 ) **
+#### University of Warwick ( October 2009 - July 2012 )
 ##### *B.Sc. in Biochemistry*
 + Upper Second-Class Honours
 + Research Project: Cellular Water Transport System in Plant Embryo
 
 ## <a name="experience">Experience</a>
 
-#### ** Guide Dogs for the Blind Association ( February 2016 ) **
+#### Guide Dogs for the Blind Association ( February 2016 )
 ##### *Certified fundraiser*
 + Sponsor a puppy campaign
 
 
-#### ** University of Tokyo ( July - August 2011 ) **
+#### University of Tokyo ( July - August 2011 )
 ##### *Undergraduate visiting scientist*
 + Student as Producer Fund Research Grant recipient ( University of Warwick )
++ Chromosome Dynamics Laboratory, Institute of Molecular and Cellular Biosciences
 
-#### ** University of Warwick ( July - August 2010 ) **
+
+#### University of Warwick ( July - August 2010 )
 ##### *Undergraduate research scientist*
 + Undergraduate Research Scholarship recipient ( University of Warwick )
++ Chromosome Segregation Laboratory
 
-#### ** Lakeland College Japan ( September 2008 - September 2009 ) **
+#### Lakeland College Japan ( September 2008 - September 2009 )
 ##### *Academic tutor*
 + Learning support for fellow students
 + Subjects: Calculus, Statistics, Life Science, Humanity
