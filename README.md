@@ -1,68 +1,93 @@
 ## Misa Ogura
+#### | misa.ogura01@gmail.com | [Who am I](#whoami) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Language](#language)
 
-### Who Am I?
 
-I wonder how things work.
+### <a name="whoami">Who Am I</a>
 
-This urge to know how things work --> biology...
+I am a biolomedical scientist, turned developer.
 
-Then in coding, I re-discovered an ideal place to explore my curiosity and creativity. I have found few things that provide this degree of freedom and satisfaction that coding offers.
+I wonder how things work. This is why Biology fascinates me. It is an ultimate study of how we work, how life works.
 
-I have recently built [Japanesify](https://github.com/rachelsmithcode/nodeboard.git) as part of a group project week at Makers Academy. It is an [open-source](https://github.com/MisaOgura/japanesify.git) web application that converts names into Japanese characters. It has become popular and many started to use their Japanese names in internal messaging channels. Even such a small change in people's lives brought me a tremendous joy.
+Then in coding, I re-discovered an ideal place to explore my curiosity and creativity. I have found few things to date that provide this degree of freedom and satisfaction coding offers.
 
-This is why I want to follow the path to become a developer. I want to create multi-platform software which is easy and fun to navigate and satisfies users’ curiosities.
+I have recently built [Japanesify](https://github.com/rachelsmithcode/nodeboard.git) as part of a group project week at Makers Academy. It is an [open-source](https://github.com/MisaOgura/japanesify.git) web application that converts names into Japanese characters. It has become popular and many started to use their Japanese names in internal messaging channels. Even such a small change in people's lives brought me a tremendous joy!
 
-### Key skills
+I am currently looking for a role that will allow me to further grow as a changemaker. I thrive in an environment where I will be constantly challenged to push boundaries of my knowledge and skills. My particular interests are in creating multi-platform software which is easy and fun to navigate and satisfies users’ curiosities.
 
-#### + Passionate learner
-Always on a hunt for learning new technologies and pushing boundaries of my knowledge / skills.
+### <a name="skills">Key Skills</a>
 
-This was put to test during my time at Makers Academy. From a complete beginner in programming, I have grown as an aspiring developer and produced over 10 projects with different languages and frameworks ( selected projects below ).
+#### + Passionate self-driven learner
+Always on a hunt for learning new facts and technologies.
 
-| Application       | Summary          | Key technologies|
-| ------------- |:-------------:| -----:|
-| Smart Alarm [frontend](https://github.com/MisaOgura/smartAlarm-mobile.git), [backend](https://github.com/MisaOgura/smartAlarm) | A decoupled mobile application to help planning journeys depending on tube disruptions and weather conditions. | Ionic ( frontend ), Ruby on Rails ( backend ), RESTful API, 3rd party APIs. Tested with Rspec, Karma and Protractor |
-| [Japanesify](https://github.com/MisaOgura/japanesify.git) | A single page responsive web application that converts your names to Japanese characters. Available on Heroku: [Japanesify](https://japanesify.herokuapp.com/) | AngularJS ( frontend ), regex-based conversion algorithm. Tested with Karma and Protractor |
-| [Github Grabber](https://github.com/rachelsmithcode/nodeboard.git) | A single page responsive web application for requesting Github profiles based on usernames. Available on Heroku: [Github Grabber](https://github-grabber.herokuapp.com/) | AngularJS ( frontend ), Node.js ( backend ), RESTful API, Github API |
+This was put to test during my time at Makers Academy. From a complete beginner in programming, I have grown as an aspiring developer and produced [over 15 projects](https://github.com/MisaOgura?tab=repositories) independently and collaboratively, all completed under very tight time constraints. Below are selected projects listed in a chronological order to demonstrate the increasing complexity of the projects.
 
-#### + Adaptable communicator
+| <a name="projects">Project</a> - link to repos | Completion time | Summary | Key technologies |
+| - | :-: | :-: | -: |
+| [Chitter](https://github.com/MisaOgura/chitter-challenge) | 2 days | A twitter clone with basic functionality to post peeps and comments. Available on Heroku: [Chitter](https://chitter-app-misa.herokuapp.com/users/new) |  Ruby, Sinatra, DataMapper, PostgreSQL, RESTful API. Tested with RSpec, Capybara. |
+| [Github Grabber](https://github.com/rachelsmithcode/nodeboard.git) | 2 days | A single page responsive web application for requesting Github profiles based on usernames. Available on Heroku: [Github Grabber](https://github-grabber.herokuapp.com/) | AngularJS, Node.js, RESTful API, Github API. |
+| [Japanesify](https://github.com/MisaOgura/japanesify.git) | 1 week | A single page responsive web application that converts your names to Japanese characters. Available on Heroku: [Japanesify](https://japanesify.herokuapp.com/) | AngularJS, regex-based conversion algorithm. Tested with Karma and Protractor. |
+| Smart Alarm [Frontend repo](https://github.com/MisaOgura/smartAlarm-mobile.git), [Backend repo](https://github.com/MisaOgura/smartAlarm) | 2 weeks | A decoupled mobile application to help planning journeys depending on tube disruptions and weather conditions. | Ionic, Ruby on Rails, RESTful API, 3rd party APIs. Tested with Rspec, Karma and Protractor. |
 
-Having left Japan at the age of 21, I have naturally developed adaptability towards diverse situations and cultures.
-- experience from the love for travels
+#### + Logical thinker
+As a laboratory scientist, the ability to think logically from multiple perspectives is essential, and I am able to apply it to any tasks at hands.
+
+Logical thinking allows me to :
++ grasp a big picture of the problem space
++ identify and separate problems
++ create hypotheses
++ test hypotheses
++ repeat the process to narrow down causes/solutions
 
 #### + Determined problem-solver
+Perseverance and patience, combined with logical thinking, make me a determined problem-solver.
 
-- skills as a researcher: logical & analytical thinking
-- how I managed to branch out a new project from the one that was not running
+#### + Adaptable communicator
+Having left Japan at the age of 21, I have naturally developed adaptability towards diverse situations and cultures.
 
-#### + Volunteering
+### <a name="education">Education</a>
 
-- Battersea...
+#### ** [Makers Academy](http://www.makersacademy.com/) ( February - May 2016 ) **
+##### *Intensive full-stack web development course*
 
-### Education
++ TDD and BDD
++ OOD and SOLID
++ Pair-programming, teamwork and agile development
++ RESTful API, 3rd party APIs
++ Ruby, Rails, JavaScript, Node.js, AngularJS, HTML/CSS, PostgreSQL, DataMapper, Active Record
++ RSpec, Capybara, Jasmine, Karma, Protractor, JUnit
 
-#### Makers Academy (February 2016 - May 2016)
+#### ** University College London ( March 2013 - June 2016 ) **
+##### *M.Phil. ( expected ) in Cancer Cell Biology*
++ Cancer Research UK Graduate Research Studentship recipient
++ Research Project: Mechanisms of Metastasis in Breast Cancer
 
-+ A particular focus on Agile development, object-oriented programming, and test/behaviour-driven development
-+ Primarily self-guided and practice-based
-+ Grew confidence in facing problems, not by trying to know everything, but by knowing where and how to find answers
+#### ** University of Warwick ( October 2009 - July 2012 ) **
+##### *B.Sc. in Biochemistry*
++ Upper Second-Class Honours
++ Research Project: Cellular Water Transport System in Plant Embryo
 
-While I developed appreciation for a well-refactored clean code, I have also learned that being a developer is not all about being able to code. Working extensively on multiple group projects, I have experienced highs and lows of teamwork. I strive to create an adaptable environment with active discussions, open communication and respect to each other.
+## <a name="experience">Experience</a>
 
-#### University College London (March 2013 - June 2016)
+#### ** Guide Dogs for the Blind Association ( February 2016 ) **
+##### *Certified fundraiser*
++ Sponsor a puppy campaign
 
-- M.Phil. ( expected ) in Cancer Cell Biology
-- In affiliation with Cancer Rsearch UK
-- Research Project: Mechanisms of Metastasis in Breast Cancer
 
-#### University of Warwick (October 2009 - July 2012)
-- B.Sc. in Biochemistry
-- Upper Second-Class Honours
-- Research Project: Cellular Water Transport System in Plant Embryo
+#### ** University of Tokyo ( July - August 2011 ) **
+##### *Undergraduate visiting scientist*
++ Student as Producer Fund Research Grant recipient ( University of Warwick )
 
-### Experience
+#### ** University of Warwick ( July - August 2010 ) **
+##### *Undergraduate research scientist*
++ Undergraduate Research Scholarship recipient ( University of Warwick )
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+#### ** Lakeland College Japan ( September 2008 - September 2009 ) **
+##### *Academic tutor*
++ Learning support for fellow students
++ Subjects: Calculus, Statistics, Life Science, Humanity
+
+## <a name="language">Language</a>
++ **Japanese :** native proficiency
++ **English :** fluent
++ **Mandarin :** conversational
++ **French :** conversational
