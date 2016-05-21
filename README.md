@@ -22,7 +22,7 @@ Always on a hunt for learning new facts and technologies.
 This was put to test during my time at Makers Academy. From a complete beginner in programming, I have grown as an aspiring developer and produced [over 15 projects](https://github.com/MisaOgura?tab=repositories) independently and collaboratively, all completed under very tight time constraints. Below are selected projects listed in a chronological order to demonstrate the increasing complexity of the projects.
 
 | <a name="projects">Project</a> - link to repos | Completion time | Summary | Key technologies |
-| - | :-: | :-: | -: |
+| ---------------------------------------------- | :-------------: | :-----: | ---------------: |
 | [Chitter](https://github.com/MisaOgura/chitter-challenge) | 2 days | A twitter clone with basic functionality to post peeps and comments. Available on Heroku: [Chitter](https://chitter-app-misa.herokuapp.com/users/new) |  Ruby, Sinatra, DataMapper, PostgreSQL, RESTful API. Tested with RSpec, Capybara. |
 | [Github Grabber](https://github.com/rachelsmithcode/nodeboard.git) | 2 days | A single page responsive web application for requesting Github profiles based on usernames. Available on Heroku: [Github Grabber](https://github-grabber.herokuapp.com/) | AngularJS, Node.js, RESTful API, Github API. |
 | [Japanesify](https://github.com/MisaOgura/japanesify.git) | 1 week | A single page responsive web application that converts your names to Japanese characters. Available on Heroku: [Japanesify](https://japanesify.herokuapp.com/) | AngularJS, regex-based conversion algorithm. Tested with Karma and Protractor. |
