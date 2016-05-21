@@ -10,26 +10,26 @@ I wonder how things work. This is why Biology fascinates me. It is an ultimate s
 
 Then in coding, I re-discovered an ideal place to explore my curiosity and creativity. I have found few things to date that provide this degree of freedom and satisfaction coding offers.
 
-I have recently built [Japanesify](https://github.com/rachelsmithcode/nodeboard.git) as part of a group project week at Makers Academy. It is an [open-source](https://github.com/MisaOgura/japanesify.git) web application that converts names into Japanese characters. It has become popular and many started to use their Japanese names in internal messaging channels. Even such a small change in people's lives brought me a tremendous joy!
+I have recently built [Japanesify](https://github.com/rachelsmithcode/nodeboard.git) as part of a group project week at Makers Academy. It is an [open-source](https://github.com/MisaOgura/japanesify.git) web application that converts names into Japanese characters. It has become popular within the organisation and many started to use their Japanese names in internal messaging channels. Even such a small change in people's lives brought me a tremendous joy!
 
 I am currently looking for a role that will allow me to further grow as a changemaker. I thrive in an environment where I will be constantly challenged to push boundaries of my knowledge and skills. My particular interests are in creating multi-platform software which is easy and fun to navigate and satisfies users’ curiosities.
 
 ### <a name="skills">Key Skills</a>
 
 #### + Passionate self-driven learner
-Always on a hunt for learning new facts and technologies.
+Always on a hunt for pursuing new knowledge and technologies.
 
-This was put to test during my time at Makers Academy. From a complete beginner in programming, I have grown as an aspiring developer and produced [over 15 projects](https://github.com/MisaOgura?tab=repositories) independently and collaboratively, all completed under very tight time constraints. Below are selected projects listed in a chronological order to demonstrate the increasing complexity of the projects.
+From a complete beginner in coding, I have produced [over 15 projects](https://github.com/MisaOgura?tab=repositories) independently and collaboratively, all completed under very tight time constraints at Makers Academy. Below are selected projects listed in a chronological order to demonstrate the increasing complexity of the projects.
 
 | <a name="projects">Project</a> - link to repos | Completion time | Summary | Key technologies |
 | ---------------------------------------------- | :-------------: | :-----: | ---------------: |
 | [Chitter](https://github.com/MisaOgura/chitter-challenge) | 2 days | A twitter clone with basic functionality to post peeps and comments. Available on Heroku: [Chitter](https://chitter-app-misa.herokuapp.com/users/new) |  Ruby, Sinatra, DataMapper, PostgreSQL, RESTful API. Tested with RSpec, Capybara. |
 | [Github Grabber](https://github.com/rachelsmithcode/nodeboard.git) | 2 days | A single page responsive web application for requesting Github profiles based on usernames. Available on Heroku: [Github Grabber](https://github-grabber.herokuapp.com/) | AngularJS, Node.js, RESTful API, Github API. |
 | [Japanesify](https://github.com/MisaOgura/japanesify.git) | 1 week | A single page responsive web application that converts your names to Japanese characters. Available on Heroku: [Japanesify](https://japanesify.herokuapp.com/) | AngularJS, regex-based conversion algorithm. Tested with Karma and Protractor. |
-| Smart Alarm [Frontend repo](https://github.com/MisaOgura/smartAlarm-mobile.git), [Backend repo](https://github.com/MisaOgura/smartAlarm) | 2 weeks | A decoupled mobile application to help planning journeys depending on tube disruptions and weather conditions. | Ionic, Ruby on Rails, RESTful API, 3rd party APIs. Tested with Rspec, Karma and Protractor. |
+| Smart Alarm [Frontend repo](https://github.com/MisaOgura/smartAlarm-mobile.git) [Backend repo](https://github.com/MisaOgura/smartAlarm) | 2 weeks | A decoupled mobile application to help planning journeys depending on tube disruptions and weather conditions. | Ionic, Ruby on Rails, RESTful API, 3rd party APIs. Tested with Rspec, Karma and Protractor. |
 
 #### + Logical thinker
-As a laboratory scientist, the ability to think logically from multiple perspectives is essential, and I am able to apply it to any tasks at hands.
+As a laboratory scientist, I have developed the ability to think logically and approach problems from multiple perspectives, which can be applied to any tasks at hands.
 
 Logical thinking allows me to :
 + grasp a big picture of the problem space
