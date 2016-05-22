@@ -25,7 +25,7 @@ I am currently looking for a role that will allow me to further grow as a change
 ---
 
 #### + Adaptable communicator
-Having left Japan at the age of 21 and lived in the UK for 7 years, I have naturally developed interpersonal adaptability.
+Having lived away from home since young, I have naturally developed independency and interpersonal adaptability.
 
 My work experience as an academic tutor for A-level and university-level students has equipped me with skills to :
 + simplify complicated concepts with real-life examples
