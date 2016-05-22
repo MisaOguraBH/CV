@@ -82,22 +82,24 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 
 #### Guide Dogs for the Blind Association ( February 2016 )
 ##### *Certified fundraiser*
-+ Sponsor a puppy campaign
++ Promotion of [Sponsor A Puppy](http://www.guidedogs.org.uk/microsites/sponsor-a-puppy?utm_source=Google&utm_medium=PPC&utm_term=sponsor%20a%20puppy&utm_content=Exact&utm_campaign=SAP&gclid=CjwKEAjwsYW6BRCTzvu5y8DPhi0SJABnGLlH5lSwJDwQQP-FDirpQDrobgPT41TpwZ02Vt0SK-B41hoCoLHw_wcB) campaign
 
 
 #### University of Tokyo ( July - August 2011 )
 ##### *Undergraduate visiting scientist*
-+ Student as Producer Fund Research Grant recipient ( University of Warwick )
++ [Student as Producer Fund Research Grant](http://www2.warwick.ac.uk/fac/cross_fac/iatl/funding/fundedprojects/studentresearch/ogura/) recipient ( University of Warwick )
++ Mentioned in a university-wide [newsletter](https://www2.warwick.ac.uk/fac/cross_fac/iatl/news/newsletters/iatl_newsletter_autumn_2011.pdf)
 + Chromosome Dynamics Laboratory, Institute of Molecular and Cellular Biosciences
-
 
 #### University of Warwick ( July - August 2010 )
 ##### *Undergraduate research scientist*
-+ Undergraduate Research Scholarship recipient ( University of Warwick )
-+ Chromosome Segregation Laboratory
++ [Undergraduate Research Support Scheme](http://www2.warwick.ac.uk/services/skills/urss/) recipient ( University of Warwick )
++ Chromosome Segregation Laboratory, Department of Life Sciences
 
 #### Lakeland College Japan ( September 2008 - September 2009 )
 ##### *Academic tutor*
++ [Highest Achievement Student Award](http://image.blog.livedoor.jp/ktukjp/imgs/2/8/288afbe4.jpg) recipient
++ Featured in a school-wide [blog](http://nic.livedoor.biz/archives/50238251.html)
 + Learning support for fellow students
 + Subjects: Calculus, Statistics, Life Science, Humanity
 
