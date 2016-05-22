@@ -1,5 +1,5 @@
 ## <a name="user-content-top">Misa Ogura</a>
-##### | misa.ogura01@gmail.com | [Who am I](#whoami) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Language](#language)
+##### | misa.ogura01@gmail.com | [Who am I](#whoami) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Language](#language) |
 
 
 ### <a name="whoami">Who Am I</a>
@@ -24,17 +24,27 @@ I am currently looking for a role that will allow me to further grow as a change
 ### <a name="skills">Key Skills</a>
 ---
 
+#### + Adaptable communicator
+Having left Japan at the age of 21 and lived in the UK for 7 years, I have naturally developed interpersonal adaptability.
+
+My work experience as an academic tutor for A-level and university-level students has equipped me with skills to :
++ simplify complicated concepts with real-life examples
++ carefully adjust conversations according to personality
++ yet still be assertive of priorities
+
+In addition at Makers Academy, I pair-programmed every day with different persons and worked on projects in teams following agile principles, which further helped me improve as a confident communicator.
+
 #### + Passionate self-driven learner
 Always on a hunt for pursuing new knowledge and technologies.
 
 From a complete beginner in coding, I have produced [over 15 projects](https://github.com/MisaOgura?tab=repositories) independently and collaboratively, all completed under very tight time constraints at Makers Academy. Below are selected projects listed in a chronological order to demonstrate the increasing complexity of the projects.
 
-| <a name="projects">Project</a> - link to repos | Completion time | Summary | Key technologies |
-| ---------------------------------------------- | :-------------: | :-----: | ---------------: |
+| <a name="projects">Project</a> - link to repo | Completion time | Summary | Key technologies |
+| --------------------------------------------- | :-------------: | :-----: | ---------------: |
 | [Chitter](https://github.com/MisaOgura/chitter-challenge) | 2 days | A twitter clone with basic functionality to post peeps and comments. Available on Heroku: [Chitter](https://chitter-app-misa.herokuapp.com/users/new) |  Ruby, Sinatra, DataMapper, PostgreSQL, RESTful API. Tested with RSpec, Capybara. |
 | [Github Grabber](https://github.com/MisaOgura/github-grabber) | 2 days | A single page responsive web application for requesting Github profiles based on usernames. Available on Heroku: [Github Grabber](https://github-grabber.herokuapp.com/) | AngularJS, Node.js, RESTful API, Github API. |
 | [Japanesify](https://github.com/MisaOgura/japanesify.git) | 1 week | A single page responsive web application that converts your names to Japanese characters. Available on Heroku: [Japanesify](https://japanesify.herokuapp.com/) | AngularJS, regex-based conversion algorithm. Tested with Karma and Protractor. |
-| Smart Alarm [Frontend repo](https://github.com/MisaOgura/smartAlarm-mobile.git) [Backend repo](https://github.com/MisaOgura/smart_alarm_v2) | 2 weeks | A decoupled mobile application to help planning journeys depending on tube disruptions and weather conditions. | Ionic, Ruby on Rails, RESTful API, 3rd party APIs. Tested with Rspec, Karma and Protractor. |
+| Smart Alarm [Frontend repo](https://github.com/MisaOgura/smartAlarm-mobile.git) [Backend repo](https://github.com/MisaOgura/smart_alarm_v2) | 2 weeks | A mobile application to help planning journeys depending on tube disruptions and weather conditions. | Ionic, Ruby on Rails, RESTful API, 3rd party APIs. Tested with Rspec, Karma and Protractor. |
 
 #### + Logical thinker
 As a laboratory scientist, I have developed the ability to think logically and approach problems from multiple perspectives, which can be applied to any tasks at hands.
@@ -53,9 +63,6 @@ Biomedical research often takes months to appreciate results. Also, due to the n
 
 The fast cycle of hypothesis testing in coding is such a satisfying process. I get to see the result of what I do straight away in black and white. And this is what I love about coding.
 
-#### + Adaptable communicator
-Having left Japan at the age of 21, I have naturally developed adaptability towards diverse situations and cultures.
-
 [Back to top](#user-content-top)
 
 ### <a name="education">Education</a>
@@ -64,7 +71,7 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 #### Makers Academy ( February - May 2016 )
 ##### *Intensive full-stack web development course*
 
-+ Agile methodologies (SOLID, TDD, BDD, Scrum)
++ Agile principles (SOLID, TDD, BDD, Scrum)
 + Object orientated programming
 + Pair programming
 + Ruby, JavaScript, HTML/CSS
@@ -128,7 +135,7 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 ##### *Workshop organizer*
 + Title of workshop: Going abroad as a future scientist
 
-#### Japan Young Researchers Society for Biochemistry( 2010 - 2011 )
+#### Japan Young Researchers Society for Biochemistry ( 2010 - 2011 )
 ##### *Core staff member*
 + Responsible for international liaison with staff members based in Japan
 + Organise a yearly Summer School
