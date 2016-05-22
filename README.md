@@ -3,6 +3,7 @@
 
 
 ### <a name="whoami">Who Am I</a>
+---
 
 #### + Laboratory scientist
 I am a Biomedical scientist specialised in cancer research.
@@ -78,7 +79,7 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 + Upper Second-Class Honours
 + Research Project: Cellular Water Transport System in Plant Embryo
 
-## <a name="experience">Work / Research / Voluntary Experience</a>
+### <a name="experience">Work / Research / Voluntary Experience</a>
 
 #### Battersea Dogs & Cats Home ( July 2015 - Present )
 ##### *Multiple volunteer roles*
