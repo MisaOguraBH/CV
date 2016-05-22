@@ -20,6 +20,7 @@ I am currently looking for a role that will allow me to further grow as a change
 + satisfies users’ needs and curiosities.
 
 ### <a name="skills">Key Skills</a>
+---
 
 #### + Passionate self-driven learner
 Always on a hunt for pursuing new knowledge and technologies.
@@ -54,6 +55,7 @@ The fast cycle of hypothesis testing in coding is such a satisfying process. I g
 Having left Japan at the age of 21, I have naturally developed adaptability towards diverse situations and cultures.
 
 ### <a name="education">Education</a>
+---
 
 #### Makers Academy ( February - May 2016 )
 ##### *Intensive full-stack web development course*
@@ -80,12 +82,12 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 + Research Project: Cellular Water Transport System in Plant Embryo
 
 ### <a name="experience">Work / Research / Voluntary Experience</a>
+---
 
 #### Battersea Dogs & Cats Home ( July 2015 - Present )
 ##### *Multiple volunteer roles*
 + Animal Photographer
 + Dog Socialiser
-
 
 #### Guide Dogs for the Blind Association ( February 2016 )
 ##### *Certified fundraiser*
@@ -109,7 +111,9 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 + Learning support for fellow students
 + Subjects: Calculus, Statistics, Life Science, Humanity
 
-## <a name="language">Language</a>
+### <a name="language">Language</a>
+---
+
 + **Japanese :** native proficiency
 + **English :** fluent
 + **Mandarin :** conversational
