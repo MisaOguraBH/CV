@@ -4,15 +4,19 @@
 
 ### <a name="whoami">Who Am I</a>
 
-I am a biolomedical scientist, turned developer.
+#### + Laboratory scientist
+I am a Biomedical scientist specialised in cancer research.
+I wonder how things work, and this has always been the drive of my life. This is why Biology fascinates me. It is an ultimate study of how we work - how life works.
 
-I wonder how things work. This is why Biology fascinates me. It is an ultimate study of how we work, how life works.
-
+#### + Turned developer
 Then in coding, I re-discovered an ideal place to explore my curiosity and creativity. I have found few things to date that provide this degree of freedom and satisfaction coding offers.
 
-I have recently built [Japanesify](https://github.com/rachelsmithcode/nodeboard.git) as part of a group project week at Makers Academy. It is an [open-source](https://github.com/MisaOgura/japanesify.git) web application that converts names into Japanese characters. It has become popular within the organisation and many started to use their Japanese names in internal messaging channels. Even such a small change in people's lives brought me a tremendous joy!
+Recently, I created [Japanesify](https://github.com/rachelsmithcode/nodeboard.git) as part of a group project week at Makers Academy. It is an [open-source](https://github.com/MisaOgura/japanesify.git) web application that converts names into Japanese characters. It has become popular within the organisation and many started to use their Japanese names in internal messaging channels. Even such a small change in people's lives brought me a tremendous joy!
 
-I am currently looking for a role that will allow me to further grow as a changemaker. I thrive in an environment where I will be constantly challenged to push boundaries of my knowledge and skills. My particular interests are in creating multi-platform software which is easy and fun to navigate and satisfies users’ curiosities.
+#### + What's next ?
+I am currently looking for a role that will allow me to further grow as a changemaker. I thrive in an environment where I will be constantly challenged to push boundaries of my knowledge and skills. My particular interests are in creating multi-platform software that :
++ is easy and fun to navigate
++ satisfies users’ needs and curiosities.
 
 ### <a name="skills">Key Skills</a>
 
@@ -53,12 +57,16 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 #### Makers Academy ( February - May 2016 )
 ##### *Intensive full-stack web development course*
 
-+ TDD and BDD
-+ OOD and SOLID
-+ Pair-programming, teamwork and agile development
++ Agile methodologies (SOLID, TDD, BDD, Scrum)
++ Object orientated programming
++ Pair programming
++ Ruby, JavaScript, HTML/CSS
++ Sinatra, Rails, AngularJS, Node.js, Ionic
++ Version control with Git / GitHub
 + RESTful API, 3rd party APIs
-+ Ruby, Rails, JavaScript, Node.js, AngularJS, HTML/CSS, PostgreSQL, DataMapper, Active Record
-+ RSpec, Capybara, Jasmine, Karma, Protractor, JUnit
++ PostgreSQL, DataMapper, Active Record
++ RSpec, Capybara, Jasmine, Karma, Protractor
++ Heroku deployment
 
 #### University College London ( March 2013 - June 2016 )
 ##### *M.Phil. ( expected ) in Cancer Cell Biology*
