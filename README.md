@@ -91,7 +91,7 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 ### <a name="experience">Experience</a>
 ---
 
-### Work
+### + Work
 
 #### Guide Dogs for the Blind Association ( February 2016 )
 ##### *Certified fundraiser*
@@ -104,7 +104,7 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 + Learning support for fellow students
 + Subjects: Calculus, Statistics, Life Science, Humanity
 
-### Research
+### + Research
 
 #### University of Tokyo ( July - August 2011 )
 ##### *Undergraduate visiting scientist*
@@ -117,7 +117,7 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 + [Undergraduate Research Support Scheme](http://www2.warwick.ac.uk/services/skills/urss/) recipient ( University of Warwick )
 + Chromosome Segregation Laboratory, Department of Life Sciences
 
-### Other
+### + Other
 
 #### Battersea Dogs & Cats Home ( July 2015 - Present )
 ##### *Multiple volunteer roles*
