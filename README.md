@@ -1,4 +1,4 @@
-## Misa Ogura
+## <a name="top">Misa Ogura</a>
 ##### | misa.ogura01@gmail.com | [Who am I](#whoami) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Language](#language)
 
 
@@ -18,6 +18,8 @@ Recently, I created [Japanesify](https://github.com/rachelsmithcode/nodeboard.gi
 I am currently looking for a role that will allow me to further grow as a changemaker. I thrive in an environment where I will be constantly challenged to push boundaries of my knowledge and skills. My particular interests are in creating multi-platform software that :
 + is easy and fun to navigate
 + satisfies users’ needs and curiosities.
+
+[Back to top](#top)
 
 ### <a name="skills">Key Skills</a>
 ---
@@ -54,6 +56,8 @@ The fast cycle of hypothesis testing in coding is such a satisfying process. I g
 #### + Adaptable communicator
 Having left Japan at the age of 21, I have naturally developed adaptability towards diverse situations and cultures.
 
+[Back to top](#top)
+
 ### <a name="education">Education</a>
 ---
 
@@ -80,6 +84,8 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 ##### *B.Sc. in Biochemistry*
 + Upper Second-Class Honours
 + Research Project: Cellular Water Transport System in Plant Embryo
+
+[Back to top](#top)
 
 ### <a name="experience">Work / Research / Voluntary Experience</a>
 ---
@@ -111,6 +117,8 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 + Learning support for fellow students
 + Subjects: Calculus, Statistics, Life Science, Humanity
 
+[Back to top](#top)
+
 ### <a name="language">Language</a>
 ---
 
@@ -118,3 +126,5 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 + **English :** fluent
 + **Mandarin :** conversational
 + **French :** conversational
+
+[Back to top](#top)
