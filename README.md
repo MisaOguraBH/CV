@@ -32,7 +32,7 @@ My work experience as an academic tutor for A-level and university-level student
 + carefully adjust conversations according to personality
 + yet still be assertive of priorities
 
-In addition at Makers Academy, I pair-programmed every day with different persons and worked on projects in teams following agile principles, which further helped me improve as a confident communicator.
+At Makers Academy, I pair-programmed every day with different persons. In addition, working on group projects following agile principles further helped me improve as a confident communicator.
 
 #### + Passionate self-driven learner
 Always on a hunt for pursuing new knowledge and technologies.
@@ -57,7 +57,7 @@ Logical thinking allows me to :
 + repeat the process to narrow down causes/solutions
 
 #### + Determined problem-solver
-Perseverance and patience, combined with logical thinking, make me a determined problem-solver who never gives up, but also knows when to step back for a break. In fact, **Debugging** is my favourite bit in software development!
+Perseverance and patience, combined with logical thinking, make me a determined problem-solver who never gives up, but also knows when to step back for a break. In fact, **debugging** is my favourite bit in software development!
 
 Biomedical research often takes months to appreciate results. Also, due to the nature of the subject ( because no two life forms are exactly the same ), the data acquired is often ambiguous. Thanks to this, I have developed a great degree of patience and serendipity towards problems in general.
 
