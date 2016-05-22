@@ -1,5 +1,5 @@
 ## Misa Ogura
-#### | misa.ogura01@gmail.com | [Who am I](#whoami) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Language](#language)
+##### | misa.ogura01@gmail.com | [Who am I](#whoami) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Language](#language)
 
 
 ### <a name="whoami">Who Am I</a>
@@ -24,9 +24,9 @@ From a complete beginner in coding, I have produced [over 15 projects](https://g
 | <a name="projects">Project</a> - link to repos | Completion time | Summary | Key technologies |
 | ---------------------------------------------- | :-------------: | :-----: | ---------------: |
 | [Chitter](https://github.com/MisaOgura/chitter-challenge) | 2 days | A twitter clone with basic functionality to post peeps and comments. Available on Heroku: [Chitter](https://chitter-app-misa.herokuapp.com/users/new) |  Ruby, Sinatra, DataMapper, PostgreSQL, RESTful API. Tested with RSpec, Capybara. |
-| [Github Grabber](https://github.com/rachelsmithcode/nodeboard.git) | 2 days | A single page responsive web application for requesting Github profiles based on usernames. Available on Heroku: [Github Grabber](https://github-grabber.herokuapp.com/) | AngularJS, Node.js, RESTful API, Github API. |
+| [Github Grabber](https://github.com/MisaOgura/github-grabber) | 2 days | A single page responsive web application for requesting Github profiles based on usernames. Available on Heroku: [Github Grabber](https://github-grabber.herokuapp.com/) | AngularJS, Node.js, RESTful API, Github API. |
 | [Japanesify](https://github.com/MisaOgura/japanesify.git) | 1 week | A single page responsive web application that converts your names to Japanese characters. Available on Heroku: [Japanesify](https://japanesify.herokuapp.com/) | AngularJS, regex-based conversion algorithm. Tested with Karma and Protractor. |
-| Smart Alarm [Frontend repo](https://github.com/MisaOgura/smartAlarm-mobile.git) [Backend repo](https://github.com/MisaOgura/smartAlarm) | 2 weeks | A decoupled mobile application to help planning journeys depending on tube disruptions and weather conditions. | Ionic, Ruby on Rails, RESTful API, 3rd party APIs. Tested with Rspec, Karma and Protractor. |
+| Smart Alarm [Frontend repo](https://github.com/MisaOgura/smartAlarm-mobile.git) [Backend repo](https://github.com/MisaOgura/smart_alarm_v2) | 2 weeks | A decoupled mobile application to help planning journeys depending on tube disruptions and weather conditions. | Ionic, Ruby on Rails, RESTful API, 3rd party APIs. Tested with Rspec, Karma and Protractor. |
 
 #### + Logical thinker
 As a laboratory scientist, I have developed the ability to think logically and approach problems from multiple perspectives, which can be applied to any tasks at hands.
@@ -39,7 +39,11 @@ Logical thinking allows me to :
 + repeat the process to narrow down causes/solutions
 
 #### + Determined problem-solver
-Perseverance and patience, combined with logical thinking, make me a determined problem-solver.
+Perseverance and patience, combined with logical thinking, make me a determined problem-solver who never gives up, but also knows when to step back for a break. In fact, **Debugging** is my favourite bit in software development!
+
+Biomedical research often takes months to appreciate results. Also, due to the nature of the subject ( because no two life forms are exactly the same ), the data acquired is often ambiguous. Thanks to this, I have developed a great degree of patience and serendipity towards problems in general.
+
+The fast cycle of hypothesis testing in coding is such a satisfying process. I get to see the result of what I do straight away in black and white. And this is what I love about coding.
 
 #### + Adaptable communicator
 Having left Japan at the age of 21, I have naturally developed adaptability towards diverse situations and cultures.
