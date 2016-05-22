@@ -107,7 +107,7 @@ The fast cycle of hypothesis testing in coding is such a satisfying process. I g
 #### Lakeland College Japan ( September 2008 - September 2009 )
 ##### *Academic tutor*
 + [Highest Achievement Student Award](http://image.blog.livedoor.jp/ktukjp/imgs/2/8/288afbe4.jpg) recipient
-+ Featured in a school-wide [blog](http://nic.livedoor.biz/archives/50238251.html)
++ Featured in a college-wide [blog](http://nic.livedoor.biz/archives/50238251.html)
 + Learning support for fellow students
 + Subjects: Calculus, Statistics, Life Science, Humanity
 
