@@ -12,12 +12,12 @@ I wonder how things work, and this has always been the drive of my life. This is
 #### + Turned developer
 Then in coding, I re-discovered an ideal place to explore my curiosity and creativity. I have found few things to date that provide this degree of freedom and satisfaction coding offers.
 
-Recently, I created [Japanesify](https://github.com/rachelsmithcode/nodeboard.git) as part of a group project week at Makers Academy. It is an [open-source](https://github.com/MisaOgura/japanesify.git) web application that converts names into Japanese characters. It has become popular within the organisation and many started to use their Japanese names in internal messaging channels. Even such a small change in people's lives brought me a tremendous joy!
+Recently, I created [Japanesify](https://japanesify.herokuapp.com/) as part of a group project week at Makers Academy. It is an [open-source](https://github.com/MisaOgura/japanesify.git) web application that converts names into Japanese characters. It has become popular within the organisation and many started to use their Japanese names in internal messaging channels. Even such a small change in people's lives brought me a tremendous joy!
 
 #### + What's next ?
 I am currently looking for a role that will allow me to further grow as a changemaker. I thrive in an environment where I will be constantly challenged to push boundaries of my knowledge and skills. My particular interests are in creating multi-platform software that :
 + is easy and fun to navigate
-+ satisfies users’ needs and curiosities.
++ satisfies users’ needs and curiosities
 
 [Back to top](#user-content-top)
 
