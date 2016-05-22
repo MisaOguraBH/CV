@@ -83,21 +83,28 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 #### University of Warwick ( October 2009 - July 2012 )
 ##### *B.Sc. in Biochemistry*
 + Upper Second-Class Honours
++ Member of the Staff Student Liaison Committee
 + Research Project: Cellular Water Transport System in Plant Embryo
 
 [Back to top](#user-content-top)
 
-### <a name="experience">Work / Research / Voluntary Experience</a>
+### <a name="experience">Experience</a>
 ---
 
-#### Battersea Dogs & Cats Home ( July 2015 - Present )
-##### *Multiple volunteer roles*
-+ Animal Photographer
-+ Dog Socialiser
+### Work
 
 #### Guide Dogs for the Blind Association ( February 2016 )
 ##### *Certified fundraiser*
 + Promotion of [Sponsor A Puppy](http://www.guidedogs.org.uk/microsites/sponsor-a-puppy?utm_source=Google&utm_medium=PPC&utm_term=sponsor%20a%20puppy&utm_content=Exact&utm_campaign=SAP&gclid=CjwKEAjwsYW6BRCTzvu5y8DPhi0SJABnGLlH5lSwJDwQQP-FDirpQDrobgPT41TpwZ02Vt0SK-B41hoCoLHw_wcB) campaign
+
+#### Lakeland College Japan ( September 2008 - September 2009 )
+##### *Academic tutor*
++ [Highest Achievement Student Award](http://image.blog.livedoor.jp/ktukjp/imgs/2/8/288afbe4.jpg) recipient
++ Featured in a school-wide [blog](http://nic.livedoor.biz/archives/50238251.html)
++ Learning support for fellow students
++ Subjects: Calculus, Statistics, Life Science, Humanity
+
+### Research
 
 #### University of Tokyo ( July - August 2011 )
 ##### *Undergraduate visiting scientist*
@@ -110,12 +117,21 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 + [Undergraduate Research Support Scheme](http://www2.warwick.ac.uk/services/skills/urss/) recipient ( University of Warwick )
 + Chromosome Segregation Laboratory, Department of Life Sciences
 
-#### Lakeland College Japan ( September 2008 - September 2009 )
-##### *Academic tutor*
-+ [Highest Achievement Student Award](http://image.blog.livedoor.jp/ktukjp/imgs/2/8/288afbe4.jpg) recipient
-+ Featured in a school-wide [blog](http://nic.livedoor.biz/archives/50238251.html)
-+ Learning support for fellow students
-+ Subjects: Calculus, Statistics, Life Science, Humanity
+### Other
+
+#### Battersea Dogs & Cats Home ( July 2015 - Present )
+##### *Multiple volunteer roles*
++ Animal Photographer
++ Dog Socialiser
+
+#### The 51th Life Science Summer School, Japan ( September 2011 )
+##### *Workshop organizer*
++ Title of workshop: Going abroad as a future scientist
+
+#### Japan Young Researchers Society for Biochemistry( 2010 - 2011 )
+##### *Core staff member*
++ Responsible for international liaison with staff members based in Japan
++ Organise a yearly Summer School
 
 [Back to top](#user-content-top)
 
