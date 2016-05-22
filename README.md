@@ -1,4 +1,4 @@
-## <a name="top">Misa Ogura</a>
+## Misa Ogura
 ##### | misa.ogura01@gmail.com | [Who am I](#whoami) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Language](#language)
 
 
@@ -19,7 +19,7 @@ I am currently looking for a role that will allow me to further grow as a change
 + is easy and fun to navigate
 + satisfies users’ needs and curiosities.
 
-[Back to top](#top)
+[Back to top](#user-content-top)
 
 ### <a name="skills">Key Skills</a>
 ---
@@ -56,7 +56,7 @@ The fast cycle of hypothesis testing in coding is such a satisfying process. I g
 #### + Adaptable communicator
 Having left Japan at the age of 21, I have naturally developed adaptability towards diverse situations and cultures.
 
-[Back to top](#top)
+[Back to top](#user-content-top)
 
 ### <a name="education">Education</a>
 ---
@@ -85,7 +85,7 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 + Upper Second-Class Honours
 + Research Project: Cellular Water Transport System in Plant Embryo
 
-[Back to top](#top)
+[Back to top](#user-content-top)
 
 ### <a name="experience">Work / Research / Voluntary Experience</a>
 ---
@@ -117,7 +117,7 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 + Learning support for fellow students
 + Subjects: Calculus, Statistics, Life Science, Humanity
 
-[Back to top](#top)
+[Back to top](#user-content-top)
 
 ### <a name="language">Language</a>
 ---
@@ -127,4 +127,4 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 + **Mandarin :** conversational
 + **French :** conversational
 
-[Back to top](#top)
+[Back to top](#user-content-top)
