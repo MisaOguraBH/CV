@@ -78,12 +78,17 @@ Having left Japan at the age of 21, I have naturally developed adaptability towa
 + Upper Second-Class Honours
 + Research Project: Cellular Water Transport System in Plant Embryo
 
-## <a name="experience">Experience</a>
+## <a name="experience">Work / Research / Voluntary Experience</a>
+
+#### Battersea Dogs & Cats Home ( July 2015 - Present )
+##### *Multiple volunteer roles*
++ Animal Photographer
++ Dog Socialiser
+
 
 #### Guide Dogs for the Blind Association ( February 2016 )
 ##### *Certified fundraiser*
 + Promotion of [Sponsor A Puppy](http://www.guidedogs.org.uk/microsites/sponsor-a-puppy?utm_source=Google&utm_medium=PPC&utm_term=sponsor%20a%20puppy&utm_content=Exact&utm_campaign=SAP&gclid=CjwKEAjwsYW6BRCTzvu5y8DPhi0SJABnGLlH5lSwJDwQQP-FDirpQDrobgPT41TpwZ02Vt0SK-B41hoCoLHw_wcB) campaign
-
 
 #### University of Tokyo ( July - August 2011 )
 ##### *Undergraduate visiting scientist*
