@@ -1,5 +1,6 @@
 ## <a name="user-content-top">Misa Ogura</a>
-##### | misa.ogura01@gmail.com | [Who am I](#whoami) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Language](#language) |
+#### | misa.ogura01@gmail.com | [Linkedin](https://uk.linkedin.com/in/misa-ogura-855335120) |
+#### | [Who am I](#whoami) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Language](#language) |
 
 
 ### <a name="whoami">Who Am I</a>
