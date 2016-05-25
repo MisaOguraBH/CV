@@ -83,8 +83,8 @@ The fast cycle of hypothesis testing in coding is such a satisfying process. I g
 + RSpec, Capybara, Jasmine, Karma, Protractor
 + Heroku deployment
 
-#### University College London ( March 2013 - June 2016 )
-##### *M.Phil. ( expected ) in Cancer Cell Biology*
+#### University College London ( March 2013 - May 2016 )
+##### *M.Phil. in Cancer Cell Biology*
 + Cancer Research UK Graduate Research Studentship recipient
 + Research Project: Mechanisms of Metastasis in Breast Cancer
 
