@@ -1,6 +1,6 @@
 ## <a name="user-content-top">Misa Ogura</a>
 #### | misa.ogura01@gmail.com | [Linkedin](https://uk.linkedin.com/in/misa-ogura-855335120) |
-#### | [Who am I](#whoami) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Language](#language) |
+#### | [Who am I](#whoami) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Passion](#passion) | [Language](#language) |
 
 
 ### <a name="whoami">Who Am I</a>
@@ -140,6 +140,39 @@ The fast cycle of hypothesis testing in coding is such a satisfying process. I g
 ##### *Core staff member*
 + Responsible for international liaison with staff members based in Japan
 + Organise a yearly Summer School
+
+[Back to top](#user-content-top)
+
+### <a name="passion">Passion</a>
+---
+
+#### + Travel
+
+I am a keen traveler. Countries I have been to include :
++ Australia
++ Canada
++ China
++ England
++ France
++ Finland
++ Germany
++ Iceland
++ Italy
++ Switzerland
+
+I prefer traveling alone, because it allows me to immerse myself fully into the culture and people. I am enthusiastic about randomly starting conversations with fellow travelers and locals, listening to their stories and sharing mine.
+
+The USA and Africa is on the top of my list as the next destination!
+
+#### + Reading
+
+My favourites are fantasy and Sci-Fi novels.
+
+Reading, to me, is another form of travel. When I read, I live through the stories. I feel what characters feel, think, see, smell and taste.
+
+I love travelling the real world but sometimes books are just better with flying cars, riding on a dragon's back, reaching to another solar system in a second and flying with your umbrella!
+
+My absolute favourite of all time is ** _Hard-Boiled Wonderland And The End Of The World_ ** by Haruki Murakami. The seemingly unrelated two worlds are beautifully and witfully told in parallel. From the moment the link unfolds to the climax, it is an emotional rollercoaster. He shakes your feelings, makes you question what you know about the worlds and will leave you empty and yet in an awe of his pure genius. HIGHLY RECOMMENDED!
 
 [Back to top](#user-content-top)
 
