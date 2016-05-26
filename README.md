@@ -172,7 +172,7 @@ Reading, to me, is another form of travel. When I read, I live through the stori
 
 I love travelling the real world but sometimes books are just better with flying cars, riding on a dragon's back, reaching to another solar system in a second and flying with your umbrella!
 
-My absolute favourite of all time is ** _Hard-Boiled Wonderland And The End Of The World_ ** by Haruki Murakami. The seemingly unrelated two worlds are beautifully and witfully told in parallel. From the moment the link unfolds to the climax, it is an emotional rollercoaster. He shakes your feelings, makes you question what you know about the worlds and will leave you empty and yet in an awe of his pure genius. HIGHLY RECOMMENDED!
+My absolute favourite of all time is _**Hard-Boiled Wonderland And The End Of The World**_ by **Haruki Murakami**. The seemingly unrelated two worlds are beautifully and witfully told in parallel. From the moment the link unfolds to the climax, it is an emotional rollercoaster. He shakes your feelings, makes you question what you know about the worlds and will leave you empty and yet in an awe of his pure genius. HIGHLY RECOMMENDED!
 
 [Back to top](#user-content-top)
 
