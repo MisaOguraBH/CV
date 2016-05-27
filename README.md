@@ -174,6 +174,12 @@ I love travelling the real world but sometimes books are just better with flying
 
 My absolute favourite of all time is _**Hard-Boiled Wonderland And The End Of The World**_ by **Haruki Murakami**. The seemingly unrelated two worlds are beautifully and witfully told in parallel. From the moment the link unfolds to the climax, it is an emotional rollercoaster. He shakes your feelings, makes you question what you know about the worlds and will leave you empty and yet in an awe of his pure genius. HIGHLY RECOMMENDED!
 
+#### + Scuba Diving
+
+I am an **Advanced Open Water Diver** certified by Professional Association of Diving Instructors ( PADI ), the world largest recreational diving membership and diver training organisation.
+
+
+
 [Back to top](#user-content-top)
 
 ### <a name="language">Language</a>
