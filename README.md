@@ -162,7 +162,7 @@ I am a keen traveler. Countries I have been to include :
 
 I prefer traveling alone, because it allows me to immerse myself fully into the culture and people. I am enthusiastic about randomly starting conversations with fellow travelers and locals, listening to their stories and sharing mine.
 
-The USA and Africa is on the top of my list as the next destination!
+The USA, South America and Africa are on the top of my list as the next destinations!
 
 #### + Reading
 
@@ -172,7 +172,21 @@ Reading, to me, is another form of travel. When I read, I live through the stori
 
 I love travelling the real world but sometimes books are just better with flying cars, riding on a dragon's back, reaching to another solar system in a second and flying with your umbrella!
 
-My absolute favourite of all time is _**Hard-Boiled Wonderland And The End Of The World**_ by **Haruki Murakami**. The seemingly unrelated two worlds are beautifully and witfully told in parallel. From the moment the link unfolds to the climax, it is an emotional rollercoaster. He shakes your feelings, makes you question what you know about the worlds and will leave you empty and yet in an awe of his pure genius. HIGHLY RECOMMENDED!
+My absolute favourite of all time is _**Hard-Boiled Wonderland And The End Of The World**_ by **Haruki Murakami**. The seemingly unrelated two worlds are beautifully and witfully told in parallel. From the moment the link unfolds to the climax, it is an emotional rollercoaster. He shakes your feelings, makes you question what you know about the worlds and will leave you empty and yet in an awe of his pure genius. Highly recommended!
+
+#### + Scuba Diving
+
+I am an **Advanced Open Water Diver** certified by Professional Association of Diving Instructors ( PADI ), the world largest recreational diving membership and diver training organisation. The most important thing I *unexpectedly* learnt from scuba diving is to **trust and let go**.
+
+Imagine... you are 30m below water. The sun gradually fades away as you descend farther. The water gives a chill to your spine. There is absolutely no sound, apart from the mechanical whizz and bursting bubbles as you inhale and exhale.
+
+Now you are at 40m.
+
+And you suddenly feel the weight of the reality, that your life relies *solely* on this thin line of oxygen in this remote world of underwater. Slight panic starts to take over. " No no, calm down, it's fine, everything's fine... " My chest is knocking and I feel breathless. The urge to ascend swallows my reason.
+
+But then I realise *- I'm not alone -* I have my buddy ( divers are required to dive always in a pair ). A buddy is a person you trust, and it better be. Because when the panic takes over in the most vulnerable situation, it's that trust for your buddy that brings your heart rate back and scrub your fear away.
+
+Trust and let go : it's not always easy, but I've developed this mentality through scuba diving.
 
 [Back to top](#user-content-top)
 
