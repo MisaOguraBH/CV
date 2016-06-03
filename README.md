@@ -182,9 +182,9 @@ Imagine... you are 30m below water. The sun gradually fades away as you descend 
 
 Now you are at 40m.
 
-And you suddenly feel the weight of the reality, that your life relies *solely* on this thin line of oxygen in this remote world of underwater. Slight panic starts to take over. " No no, calm down, it's fine, everything's fine... " My chest is knocking and I feel breathless. The urge to ascend swallows my reason.
+And you suddenly feel the weight of the reality, that your life relies *solely* on this thin line of oxygen in this remote world of underwater. Slight panic starts to take over. " No no, calm down, it's fine, everything's fine... " Your chest is knocking and you feel breathless. The urge to ascend swallows your reason...
 
-But then I realise *- I'm not alone -* I have my buddy ( divers are required to dive always in a pair ). A buddy is a person you trust, and it better be. Because when the panic takes over in the most vulnerable situation, it's that trust for your buddy that brings your heart rate back and scrub your fear away.
+But then you realise *- I'm not alone -* No, you have your buddy ( divers are required to dive always in a pair ). A buddy is a person you trust, and it better be. Because when the panic takes over in the most vulnerable situation, it's that trust for your buddy that brings your heart rate back and scrub your fear away.
 
 Trust and let go : it's not always easy, but I've developed this mentality through scuba diving.
 
