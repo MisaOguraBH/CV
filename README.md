@@ -1,6 +1,6 @@
 ## <a name="user-content-top">Misa Ogura</a>
 #### | misa.ogura01@gmail.com | [Linkedin](https://uk.linkedin.com/in/misa-ogura-855335120) |
-#### | [Who am I](#whoami) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Passion](#passion) | [Language](#language) |
+##### -- [Who am I](#whoami) -- [Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Experience](#experience) -- [Passion](#passion) -- [Language](#language) --
 
 
 ### <a name="whoami">Who Am I</a>
@@ -35,17 +35,17 @@ My work experience as an academic tutor for A-level and university-level student
 
 At Makers Academy, I pair-programmed every day with different persons. In addition, working on group projects following agile principles further helped me improve as a confident communicator.
 
-#### + Passionate self-driven learner
+#### + <a name="projects">Passionate self-driven learner</a>
 Always on a hunt for pursuing new knowledge and technologies.
 
 From a complete beginner in coding, I have produced [over 15 projects](https://github.com/MisaOgura?tab=repositories) independently and collaboratively, all completed under very tight time constraints at Makers Academy. Below are selected projects listed in a chronological order to demonstrate the increasing complexity of the projects.
 
-| <a name="projects">Project</a> - link to repo | Completion time | Summary | Key technologies |
-| --------------------------------------------- | :-------------: | :-----: | ---------------: |
+| Project - link to repo | Completion time | Summary | Key technologies |
+| ---------------------- | :-------------: | :-----: | ---------------: |
 | [Chitter](https://github.com/MisaOgura/chitter-challenge) | 2 days | A twitter clone with basic functionality to post peeps and comments. Available on Heroku: [Chitter](https://chitter-app-misa.herokuapp.com/users/new) |  Ruby, Sinatra, DataMapper, PostgreSQL, RESTful API. Tested with RSpec, Capybara. |
 | [Github Grabber](https://github.com/MisaOgura/github-grabber) | 2 days | A single page responsive web application for requesting Github profiles based on usernames. Available on Heroku: [Github Grabber](https://github-grabber.herokuapp.com/) | AngularJS, Node.js, RESTful API, Github API. |
 | [Japanesify](https://github.com/MisaOgura/japanesify.git) | 1 week | A single page responsive web application that converts your names to Japanese characters. Available on Heroku: [Japanesify](https://japanesify.herokuapp.com/) | AngularJS, regex-based conversion algorithm. Tested with Karma and Protractor. |
-| Smart Alarm [Frontend repo](https://github.com/MisaOgura/smartAlarm-mobile.git) [Backend repo](https://github.com/MisaOgura/smart_alarm_v2) | 2 weeks | A mobile application to help planning journeys depending on tube disruptions and weather conditions. | Ionic, Ruby on Rails, RESTful API, 3rd party APIs. Tested with Rspec, Karma and Protractor. |
+| LEAVE [Frontend](https://github.com/MisaOgura/leave-frontend.git) [Backend](https://github.com/MisaOgura/leave-backend.git) | 2 weeks | A mobile application to help planning journeys depending on tube disruptions and weather conditions. | Ionic, Ruby on Rails, RESTful API, 3rd party APIs. Tested with Rspec, Karma and Protractor. |
 
 #### + Logical thinker
 As a laboratory scientist, I have developed the ability to think logically and approach problems from multiple perspectives, which can be applied to any tasks at hands.
@@ -143,7 +143,7 @@ The fast cycle of hypothesis testing in coding is such a satisfying process. I g
 
 [Back to top](#user-content-top)
 
-### <a name="passion">Passion</a>
+### <a name="passion">Other Things I Am Passionate About</a>
 ---
 
 #### + Travel
@@ -194,7 +194,7 @@ Trust and let go : it's not always easy, but I've developed this mentality throu
 ---
 
 + **Japanese :** native proficiency
-+ **English :** fluent
++ **English :** bilingual proficiency
 + **Mandarin :** conversational
 + **French :** conversational
 
