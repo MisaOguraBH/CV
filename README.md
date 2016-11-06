@@ -74,7 +74,7 @@ The fast cycle of hypothesis testing in coding is such a satisfying process. I g
 + Development of a clinically-proved web/mobile application, Sleepio
 + Thrown in at the deep end from day one, intellectually challenged every day
 + Autonomy and cross-team collaborations are the driving force of the product
-+ Distupting a pharmaceutical paradigm by provoding a scalable degital medicine
++ Distupting a pharmaceutical paradigm by provoding a scalable digital medicine
 
 ### + Biomedical research
 
