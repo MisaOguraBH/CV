@@ -33,6 +33,22 @@ Also, having worked as an academic tutor for A-level and university-level studen
 + carefully adjust conversations according to personality
 + yet still be assertive of problems and priorities
 
+#### + Determined problem-solver
+Perseverance and patience, combined with logical thinking, make me a determined problem-solver who never gives up, but also knows when to step back for a break. In fact, **debugging** is my favourite bit in software development!
+
+Biomedical research often takes months to appreciate results. The data acquired is often ambiguous due to the nature of the subject, therefore I have developed a great degree of patience and serendipity towards problems in general.
+
+The fast cycle of hypothesis testing in coding is such a satisfying process. I get to see the result of what I do straight away in black and white. And this is one of many reasons I love coding.
+
+#### + Logical thinker
+As a laboratory scientist, I have developed the ability to think logically and approach problems from multiple perspectives, which can be applied to any tasks at hands.
+
+Logical thinking allows me to :
++ grasp a big picture of the problem space
++ identify and separate problems
++ create & test hypotheses
++ repeat the process to narrow down causes/solutions
+
 #### + <a name="projects">Passionate self-driven learner</a>
 Always on a hunt for pursuing new knowledge and technologies.
 
@@ -44,22 +60,6 @@ From a complete beginner in coding, I have produced [over 15 projects](https://g
 | [Github Grabber](https://github.com/MisaOgura/github-grabber) | 2 days | A single page responsive web application for requesting Github profiles based on usernames. Available on Heroku: [Github Grabber](https://github-grabber.herokuapp.com/) | AngularJS, Node.js, RESTful API, Github API. |
 | [Japanesify](https://github.com/MisaOgura/japanesify.git) | 1 week | A single page responsive web application that converts your names to Japanese characters. Available on Heroku: [Japanesify](https://japanesify.herokuapp.com/) | AngularJS, regex-based conversion algorithm. Tested with Karma and Protractor. |
 | LEAVE [Frontend](https://github.com/MisaOgura/leave-frontend.git) [Backend](https://github.com/MisaOgura/leave-backend.git) | 2 weeks | A mobile application to help planning journeys depending on tube disruptions and weather conditions. | Ionic, Ruby on Rails, RESTful API, 3rd party APIs. Tested with Rspec, Karma and Protractor. |
-
-#### + Logical thinker
-As a laboratory scientist, I have developed the ability to think logically and approach problems from multiple perspectives, which can be applied to any tasks at hands.
-
-Logical thinking allows me to :
-+ grasp a big picture of the problem space
-+ identify and separate problems
-+ create & test hypotheses
-+ repeat the process to narrow down causes/solutions
-
-#### + Determined problem-solver
-Perseverance and patience, combined with logical thinking, make me a determined problem-solver who never gives up, but also knows when to step back for a break. In fact, **debugging** is my favourite bit in software development!
-
-Biomedical research often takes months to appreciate results. The data acquired is often ambiguous due to the nature of the subject, therefore I have developed a great degree of patience and serendipity towards problems in general.
-
-The fast cycle of hypothesis testing in coding is such a satisfying process. I get to see the result of what I do straight away in black and white. And this is one of many reasons I love coding.
 
 [Back to top](#user-content-top)
 
@@ -105,7 +105,7 @@ The fast cycle of hypothesis testing in coding is such a satisfying process. I g
 ### <a name="education">Education</a>
 ---
 
-#### Makers Academy ( February - May 2016 )
+### Makers Academy ( February - May 2016 )
 #### *Intensive full-stack web development course*
 
 + Agile principles (SOLID, TDD, BDD, Scrum)
@@ -119,12 +119,12 @@ The fast cycle of hypothesis testing in coding is such a satisfying process. I g
 + RSpec, Capybara, Jasmine, Karma, Protractor
 + Heroku deployment
 
-#### University College London ( March 2013 - May 2016 )
+### University College London ( March 2013 - May 2016 )
 #### *M.Phil. in Cancer Cell Biology*
 + Cancer Research UK Graduate Research Studentship recipient
 + Research Project: Mechanisms of Metastasis in Breast Cancer
 
-#### University of Warwick ( October 2009 - July 2012 )
+### University of Warwick ( October 2009 - July 2012 )
 #### *B.Sc. in Biochemistry*
 + Upper Second-Class Honours
 + Member of the Staff Student Liaison Committee
