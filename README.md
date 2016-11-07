@@ -1,6 +1,6 @@
 ## <a name="user-content-top">Misa Ogura</a>
 ##### *Updated November 2016*
-#### - misa.ogura01@gmail.com - [Linkedin](https://uk.linkedin.com/in/misa-ogura-m-phil-855335120) -
+#### - [Linkedin](https://uk.linkedin.com/in/misa-ogura-m-phil-855335120) -
 ##### -- [Who am I](#whoami) -- [Skills](#skills) -- [Projects](#projects) -- [Experience](#experience) -- [Education](#education) -- [Passion](#passion) -- [Language](#language) --
 
 ### <a name="whoami">Who Am I</a>
