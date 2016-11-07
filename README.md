@@ -33,13 +33,6 @@ Also, having worked as an academic tutor for A-level and university-level studen
 + carefully adjust conversations according to personality
 + yet still be assertive of problems and priorities
 
-#### + Determined problem-solver
-Perseverance and patience, combined with logical thinking, make me a determined problem-solver who never gives up, but also knows when to step back for a break. In fact, **debugging** is my favourite bit in software development!
-
-Biomedical research often takes months to appreciate results. The data acquired is often ambiguous due to the nature of the subject, therefore I have developed a great degree of patience and serendipity towards problems in general.
-
-The fast cycle of hypothesis testing in coding is such a satisfying process. I get to see the result of what I do straight away in black and white. And this is one of many reasons I love coding.
-
 #### + Logical thinker
 As a laboratory scientist, I have developed the ability to think logically and approach problems from multiple perspectives, which can be applied to any tasks at hands.
 
@@ -48,6 +41,13 @@ Logical thinking allows me to :
 + identify and separate problems
 + create & test hypotheses
 + repeat the process to narrow down causes/solutions
+
+#### + Determined problem-solver
+Perseverance and patience, combined with logical thinking, make me a determined problem-solver who never gives up, but also knows when to step back for a break. In fact, **debugging** is my favourite bit in software development!
+
+Biomedical research often takes months to appreciate results. The data acquired is often ambiguous due to the nature of the subject, therefore I have developed a great degree of patience and serendipity towards problems in general.
+
+The fast cycle of hypothesis testing in coding is such a satisfying process. I get to see the result of what I do straight away in black and white. And this is one of many reasons I love coding.
 
 #### + <a name="projects">Passionate self-driven learner</a>
 Always on a hunt for pursuing new knowledge and technologies.
