@@ -1,6 +1,5 @@
 ## <a name="user-content-top">Misa Ogura</a>
 ##### *Updated November 2016*
-#### - [LinkedIn profile](https://uk.linkedin.com/in/misa-ogura-m-phil-855335120) -
 ##### -- [Who am I](#whoami) -- [Skills](#skills) -- [Projects](#projects) -- [Experience](#experience) -- [Education](#education) -- [Passion](#passion) -- [Language](#language) --
 
 ### <a name="whoami">Who Am I</a>
@@ -105,7 +104,7 @@ From a complete beginner in coding, I have produced [over 15 projects](https://g
 ### <a name="education">Education</a>
 ---
 
-### Makers Academy ( February - May 2016 )
+### Makers Academy ( February - September 2016 )
 #### *Intensive full-stack web development course*
 
 + Agile principles (SOLID, TDD, BDD, Scrum)
